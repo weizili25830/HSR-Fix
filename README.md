@@ -12,7 +12,8 @@ Python 3.7.9 or later.
 
 # Supported game list:
  - Honkai Star Rail
- - Genish Impact
+ - Genshin Impact
+ - Honkai Impact 3rd
 
 # Tutorials
 A simple video shows how to install mod use HSRStarter:
